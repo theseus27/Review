@@ -1,0 +1,9 @@
+{
+    "makefile.extensionOutputFolder": "./.vscode",
+    "files.exclude": {
+        ".vscode": true,
+        "blank": true,
+        "part 1 to 3": true,
+        "ultimate-fastapi-tutorial-main": true
+    }
+}

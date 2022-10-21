@@ -1,0 +1,16 @@
+{
+  "uploadOnSave": true,
+  "useAtomicWrites": false,
+  "deleteLocal": false,
+  "hostname": "homework.cs.tufts.edu",
+  "port": "22",
+  "target": "/h/tlim05/other/cppReview",
+  "ignore": [
+    ".remote-sync.json",
+    ".git/**"
+  ],
+  "username": "tlim05",
+  "password": "Cummings2020",
+  "watch": [],
+  "transport": "scp"
+}

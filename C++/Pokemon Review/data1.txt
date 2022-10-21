@@ -1,0 +1,4 @@
+Maverick
+Pikachu 10 11 50 10 12 12 Thunderbolt IronTail VoltTackle ElectroBall
+Piplup 12 11 50 10 10 10 Brine BubbleBeam DrillPeck Bubble WaterGun
+Riolu 13 9 45 10 11 10 AuraSphere Counter MeteorMash HyperBeam

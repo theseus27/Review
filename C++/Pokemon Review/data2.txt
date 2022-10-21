@@ -1,0 +1,8 @@
+Mirage
+Bulbasaur 1 2 2 2
+Charmander 4 2 2 2
+Squirtle 7 2 2 2
+Pidgeot 18 3 3 3
+Pikachu 25 1 1 1
+Sandile 540 2 2 2
+Fake

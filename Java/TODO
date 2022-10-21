@@ -1,0 +1,91 @@
+Quickly Review (~5 min video)
+- Exceptions
+- Public vs private, static vs nonstatic
+- Shadowing
+- Overriding
+- Java stdlib
+
+Medium Review (~15 min video)
+- Inheritance vs. Extends
+- Iterator Pattern (internal vs external)
+- UML Diagrams
+- Reflection
+- *Interfaces, info hiding (I think this is the NumE thing)
+
+Full Review (~30 min video)
+- Physical vs structural equality
+- Creational patterns (singleton, enumeration, factory)
+- *Structural patterns (adapter, proxy, decorator) ("wrappers")
+- Behavioral patterns (observer, visitor)
+
+Code
+- Overriding method
+- Shadowing method
+- Inheriting vs Extending classes
+- Reflection
+- Interface
+- Singleton
+- Enumeration
+- Factory
+- Adapter
+- Proxy
+- Decorator
+- Observer
+- Visitor
+- Physical but not structurally equal things
+
+************************NOTES********************************
+
+Exceptions
+    Unchecked exceptions can happen anywhere in your program. EX. NullPointerException
+    Checked exceptions are thrown at compile-time. EX. IOException
+        Put the code that throws the exception in a try/catch
+                            OR
+        Have the function be func() throws IOException
+            Could have main throw exception
+
+Public vs. Private
+
+Static vs. Nonstatic
+
+Shadowing
+
+Overriding
+
+Stdlib
+
+Inherit vs. Extend
+
+Iterator Pattern
+  External
+
+  Internal
+
+UML Diagrams
+
+Reflection
+
+Interfaces, Info Hiding
+
+Physical vs. Structural Equality
+
+Singleton
+
+Enumeration
+
+Factory
+
+Adapter
+
+Proxy
+
+Decorator
+
+Observer
+
+Visitor
+
+
+
+
+Ooh you could do it as like a python file and then it'll have red squigglies then you can make them go away as you complete tasks...
